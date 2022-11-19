@@ -1,6 +1,6 @@
 # Projeto Form Validation 📝📧📩
 
-Página desenvolvida para exercitar conceitos de validação de inputs com Javascript, expressões regulares CSS e HTML.
+Página desenvolvida para exercitar conceitos de validação de inputs com Javascript, expressões regulares, CSS e HTML.
 
 ## Tecnologias
 
